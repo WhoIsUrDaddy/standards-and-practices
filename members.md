@@ -181,6 +181,7 @@ Format:
 | Max S | [Vutpa](https://github.com/Vutpa) | Highschool Student wanting to wet my feet in programming |
 | Michael Lim | [1ronclaw](https://github.com/1ronclaw) ||
 | Michael Movsesov | [michaelmov](https://github.com/michaelmov) | Information Systems student wanting to become a good web developer. I have knowledge of HTML, CSS, JavaScript, PHP and C# but really want to focus on learning as much PHP as I contribute to projects on GitHub|
+| Mikael | [WhoIsUrDaddy](https://github.com/WhoIsUrDaddy) ||
 | Mike | [M0876](https://github.com/M0876) ||
 | Mike North | [Mikesnorth] (http://github.com/Mikesnorth) | Basic knowlege of Java and C#, have dipped into Python and C++. |
 | Mike Chen | [mhchen](https://github.com/mhchen) ||
